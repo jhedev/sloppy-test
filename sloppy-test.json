@@ -10,7 +10,7 @@
                         "type": "HTTP",
                         "uri": "$domain"
                     },
-                    "mem": 128,
+                    "mem": 1024,
                     "image": "jhedev/sloppy-test",
                     "instances": 1,
                     "port_mappings": [
